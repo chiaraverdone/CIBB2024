@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,contour,lung,pleural_effusion,pneumothorax,fracture,rib,component,heart,hydro,silhouette
+Topic 2,edema,consolidation,pleural_effusion,measure,apical_pneumothorax,silhouette,size,left_apical_pneumothorax,improvement,increase
+Topic 3,volume,loss,tube,prior,sternotomy,left,pleural_effusion,wire,emphysema,lead
+Topic 4,chest,supine,film,semi,resolution,clip,disease,morning,adjust,mark
+Topic 5,erect,semi,chest,film,mass,size,interpretation,hydropneumothorax,yesterday,vasculature
+Topic 6,tube,atelectasis,left_apical_pneumothorax,wall,cardiomegaly,pleural_effusion,silhouette,development,airspace,associate
+Topic 7,support,tube,pre,device,cardiac,dimension,appearance,silhouette,pneumothorax,tension
+Topic 8,persistent,pneumopericardium,chest,overlie,left_apical_pneumothorax,yesterday,vasculature,thorax,contour,opacity
+Topic 9,lobe,tube,continue,atelectasis,consolidation,pneumothorax,line,lung,pleural_effusion,ganz
+Topic 10,persist,removal,sulcus,hour,edema,lucency,mild,reexpansion,tube,congestion
+Topic 11,rib,project,fracture,access,irregularity,lesion,pathologic,complication,thorax,valve
+Topic 12,tension,crowding,muscle,outline,pleurx,result,vessel,indistinctness,remain,pressure
+Topic 13,elevation,suture,loss,hemothorax,material,volume,mediastinum,bony,lung,abnormality
+Topic 14,infiltrate,lung,apical_pneumothorax,pigtail,redistribution,angle,post,drain,svc,replacement
+Topic 15,area,atelectasis,base,terminate,aeration,basis,remainder,size,pneumothorax,reaccumulation
+Topic 16,pneumomediastinum,stomach,gas,hila,surface,hyperinflate,pneumothorace,air,cabg,left_apical_pneumothorax
+Topic 17,inspiratory,exam,remainder,removal,persistent,size,hilum,scar,mid,left_apical_pneumothorax
+Topic 18,diameter,shape,wedge,situation,hemidiaphragm,resection,refer,physician,relevant,level
+Topic 19,fluid,appearance,space,borderline,extent,tension,dimension,cardiac,pigtail,silhouette
+Topic 20,pigtail,pacemaker,decrease,pneumonia,shift,emphysema,opacity,fracture,contour,pneumothorax
+Topic 21,pneumothorace,valve,replacement,status,wire,constant,post,consolidation,heart,presence
+Topic 22,today,time,dictate,effusion,hydropneumothorax,atelectasis,cardiomegaly,opacification,elevate,pressure
+Topic 23,flattening,suggestion,intraperitoneal,patchy,surgery,left_apical_pneumothorax,decrease,area,extent,status
+Topic 24,decrease,situ,rest,leave,drain,congestion,extent,effusion,size,emphysema

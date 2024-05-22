@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,moderate_pulmonary_edema,mild,cardiomegaly,congestion,small_bilateral_pleural_effusion,edema,pleural_effusion,comment,instability,underlying
+Topic 2,mild_pulmonary_edema,small_bilateral_pleural_effusion,cardiomegaly,slightly_increase,small_bilateral_effusion,stable_moderate_cardiomegaly,prior_exam,rotate,pleural_effusion,isout
+Topic 3,decrease,severity,support_device,pleural_effusion,extent,persist,lung_volume,edema,size,borderline
+Topic 4,improvement,edema,cardiomegaly,multifocal_pneumonia,relevant,interstitial,diffuse,pulmonary,small_bilateral_pleural_effusion,opacity
+Topic 5,pneumonia,small_pleural_effusion,vascular_congestion,edema,overload,heart_failure,fluid,appearance,definite,cardiomegaly
+Topic 6,bilateral_pleural_effusion,tube,line,basilar_atelectasis,edema,retrocardiac_opacity,support,tracheostomy,bibasal,dobbhoff
+Topic 7,increase,airspace,opacity,edema,decompensation,resolution,treatment,etiology,size,bypass
+Topic 8,stomach,end,placement,svc,heart_size,tube,drainage,line,pass,mid
+Topic 9,small_left_pleural_effusion,low_lung_volume,large_pleural_effusion,retrocardiac_atelectasis,area,basal,pneumonia,cardiomegaly,mild_pulmonary_edema,support_device
+Topic 10,bibasilar_atelectasis,development,pneumothorax,standard,adjacent_atelectasis,mild_pulmonary_edema,chest,ng_tube,contour,drain
+Topic 11,exclude,severe_pulmonary_edema,worsen,infection,superimpose_infection,superimpose,repeat,edema,diuresis,setting
+Topic 12,mild_interstitial_edema,focal_consolidation,minimal_interstitial_edema,cardiomegaly,pulmonary_vascular_congestion,hypertension,pneumonia,identify,dialysis,remain
+Topic 13,consolidation,lung,disease,collapse,worsen_pulmonary_edema,leave_low_lobe,redistribution,zone,dense,abnormality
+Topic 14,atelectasis,left_pleural_effusion,base,opacity,exam,mild_pulmonary_edema,leave_low_lobe,left_low_lobe,pneumonia,worrisome
+Topic 15,interstitial_pulmonary_edema,moderate,mild,cardiomegaly,mark,small_bilateral_pleural_effusion,pattern,predominance,raise,cholelithiasis
+Topic 16,pulmonary_vascular_congestion,enlarge,persistent,emphysema,edema,small_bilateral_effusion,focal_consolidation,process,left,background
+Topic 17,effusion,enlargement,cardiac_silhouette,opacification,failure,edema,accompany,wall,pneumomediastinum,lobe
+Topic 18,endotracheal_tube,lung_basis,terminate,time,progression,aspiration,project,reposition,atelectasis,opacity
+Topic 19,post,acute,prominence,status,prior,wire,loss,volume,sternotomy,fracture
+Topic 20,congestive_heart_failure,trace,leave_pleural_effusion,swan,decompensate,ganz,fibrosis,pump,small_bilateral_pleural_effusion,balloon
+Topic 21,trace_bilateral_pleural_effusion,hilar_congestion,low_lobe,recommend,vascular_engorgement,infectious_process,diuresis,review,assess,provider
+Topic 22,heart,region,aeration,prior_examination,size,air,vein,lung,confluent,hyperinflation
+Topic 23,improve_pulmonary_edema,cardiomediastinal_silhouette,prior_exam,et_tube,junction,compression,associate,deformity,spine,manner

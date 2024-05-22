@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,mild_pulmonary_edema,cardiomegaly,small_bilateral_pleural_effusion,small_bilateral_effusion,low_lung_volume,slightly_increase,alignment,fixation,comment,concomitant
+Topic 2,moderate_pulmonary_edema,mild,cardiomegaly,small_bilateral_pleural_effusion,worsen,pleural_effusion,slightly_increase,trace,endotracheal_tube,moderate
+Topic 3,pneumonia,focal_consolidation,volume,overload,fluid,appearance,edema,loss,pleural_effusion,definite
+Topic 4,edema,cardiomegaly,multifocal_pneumonia,diffuse,low_lobe,component,process,resolve,patchy,rule
+Topic 5,improvement,pulmonary_vascular_congestion,edema,diuresis,recommend,emphysema,disease,interstitial,assess,repeat
+Topic 6,bilateral_pleural_effusion,terminate,mediastinum,level,edema,cardiomediastinal_silhouette,stomach,et_tube,dobbhoff,tube
+Topic 7,large_pleural_effusion,retrocardiac_atelectasis,area,low_lung_volume,endotracheal_tube,persist,project,support_device,basal,severity
+Topic 8,size,pleural_effusion,enlarge,borderline,accompany,cardiac_silhouette,heart,relevant,pneumothorace,pulmonary_vascular_congestion
+Topic 9,consolidation,vascular_congestion,leave_low_lobe,leave_pleural_effusion,trace,collapse,redistribution,zone,atelectasis,dense
+Topic 10,increase,edema,decompensation,treatment,resolution,layer,pleural_effusion,slightly_increase,opacity,manner
+Topic 11,mild_interstitial_edema,minimal_interstitial_edema,cardiomegaly,post,identify,pulmonary_vascular_congestion,status,hypertension,worrisome,cabg
+Topic 12,effusion,tube,adjacent_atelectasis,line,prior,standard,ng_tube,tracheostomy,diaphragm,pneumothorax
+Topic 13,opacity,atelectasis,lung_basis,airspace,aspiration,progression,time,combination,left_low_lobe,moderate
+Topic 14,prior_exam,end,svc,placement,mid,heart_size,drainage,stomach,pass,progress
+Topic 15,small_left_pleural_effusion,worsen_pulmonary_edema,support_device,extent,decrease,severity,pacemaker,lung_volume,lead,moderate_cardiomegaly_persist
+Topic 16,pneumothorax,development,chest,removal,wire,standard,drain,sternotomy,pump,post
+Topic 17,exclude,severe_pulmonary_edema,infection,superimpose_infection,basilar_atelectasis,setting,exam,worsen,superimpose,concurrent
+Topic 18,bibasilar_atelectasis,small_bilateral_pleural_effusion,mild_pulmonary_edema,aeration,persistent,configuration,update,advise,discover,slight
+Topic 19,left_pleural_effusion,lung,lobe,abnormality,persistent,vascular_engorgement,decompensate,mark,mild_pulmonary_edema,consolidation
+Topic 20,interstitial_pulmonary_edema,mild,cardiomegaly,pulmonary_vascular_congestion,malpositione,small_bilateral_pleural_effusion,recurrent,redemonstration,predominance,variant
+Topic 21,enlargement,cardiac_silhouette,opacification,retrocardiac_opacity,basis,failure,base,continue,atelectasis,hyperinflation
+Topic 22,small_pleural_effusion,congestion,hilar_congestion,degree,review,left,today,edema,provider,refer
+Topic 23,congestive_heart_failure,trace_bilateral_pleural_effusion,stable_moderate_cardiomegaly,rib,fracture,swan,ganz,small_bilateral_pleural_effusion,hemidiaphragm,displace
+Topic 24,heart_failure,improve_pulmonary_edema,acute,prominence,intubate,goiter,thyroid,absence,thoracic,infiltrate

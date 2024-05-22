@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,rib,fracture,recommend,detection,series,dedicate,film,pain,marker,area
+Topic 2,lung,heal,rib,fracture,silhouette,volume,trauma,hilar,hyperexpande,surface
+Topic 3,compression,fracture,mid,indeterminate,clavicle,age,correlate,chronicity,acuity,acute
+Topic 4,rib,fracture,abnormality,displace,series,assessment,lung,pneumothorax,chest,heart
+Topic 5,atelectasis,fracture,decrease,lobe,opacity,pre,formation,indicate,pneumothorax,rib
+Topic 6,pneumothorax,pleural_effusion,fracture,rib,resolution,congestion,lung,pneumonia,contour,cast
+Topic 7,sternotomy,wire,fracture,heart,mediastinum,opacity,compression,diffuse,multiple,size
+Topic 8,tube,suspicion,sensitivity,chest,rib,fracture,radiography,routine,aspiration,resoluation
+Topic 9,pneumonia,consolidation,edema,fracture,aorta,assess,multiple,head,migration,dilation
+Topic 10,displace_rib_fracture,nondisplace_rib_fracture,acute_cardiopulmonary_process,process,intrathoracic,pneumothorax,detection,disease,fusion,hardware
+Topic 11,end,widening,present,vertebrae,compression,svc,lung,continue,screw,pedicle
+Topic 12,osteopenia,spine,thoracic,identify,technique,cardiomegaly,borderline,fracture,cardiac,compression
+Topic 13,body,mild,hila,mediastinum,worsen,compression,explanation,age,edema,surface

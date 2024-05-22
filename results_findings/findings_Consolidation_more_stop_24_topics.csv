@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,portable_semi,erect,chest,film,extubation,infiltration,tracheostomy,fat,pad,remainder
+Topic 2,pneumothorax,opacity,pleural_effusion,increase,congestion,silhouette,terminate,predominance,persistent,cardiomegaly
+Topic 3,opacity,silhouette,pleural_effusion,pneumothorax,cardiac,lobe,air,airspace,spine,dextroscoliosis
+Topic 4,device,support,consolidation,mild,atelectasis,vasculature,combination,definite,time,basal
+Topic 5,basis,ground,correlate,glass,lung,increase,aspiration,tube,consolidation,pleural_effusion
+Topic 6,hilar,xray,lung,border,size,pleural_effusion,volume,pigtail,consolidation,loss
+Topic 7,contour,consolidation,pleural_effusion,lobe,heart,size,pneumothorax,edema,fat,pad
+Topic 8,airspace,conclusion,diffuse,consolidation,line,brachiocephalic,leave,progression,situ,favor
+Topic 9,calcification,arch,provide,hemidiaphragm,mild,base,heart,size,lung,silhouette
+Topic 10,chest,extubation,svc,improvement,terminate,tube,infiltration,tracheostomy,fat,pad
+Topic 11,appearance,support,device,tissue,wall,difference,include,collection,obscuration,level
+Topic 12,supine,chest,film,extubation,infiltration,tracheostomy,fat,pad,remainder,assess
+Topic 13,bone,prominence,volume,increase,lung,lobe,silhouette,pneumothorax,pleural_effusion,consolidation
+Topic 14,clip,prominent,replacement,root,sternotomy,wire,pneumonia,opacification,silhouette,pneumothorax
+Topic 15,deformity,multiple,dilate,aspiration,endotracheal,stomach,region,pneumonia,terminate,opacification
+Topic 16,bring,dictation,review,today,tracheostomy,resolve,area,decrease,basis,opacification
+Topic 17,film,chest,infiltration,improvement,extubation,tracheostomy,fat,pad,remainder,assess
+Topic 18,lung,atelectasis,volume,contour,silhouette,extubation,infiltration,tracheostomy,fat,pad
+Topic 19,curl,esophagus,dobbhoff,stomach,line,tube,lobe,consolidation,extubation,infiltration
+Topic 20,mid,worsen,field,dobbhoff,tube,loss,diffuse,volume,lobe,pleural_effusion
+Topic 21,resolve,appearance,effusion,improvement,cardiomegaly,edema,silhouette,pneumothorax,consolidation,extubation
+Topic 22,extubation,infiltration,tracheostomy,fat,pad,remainder,patchy,assess,abnormality,retrocardiac
+Topic 23,extubation,infiltration,tracheostomy,fat,pad,remainder,patchy,assess,abnormality,retrocardiac
+Topic 24,extubation,infiltration,tracheostomy,pad,fat,remainder,retrocardiac,assess,addition,abnormality

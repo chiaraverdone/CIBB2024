@@ -1,0 +1,6 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,size,cardiac_silhouette,pleural_effusion,focal_parenchymal_opacity,pulmonary_edema,thoracic,pneumonia,lung_volume,pneumothorax,mediastinal_contour
+Topic 2,pneumothorax,pneumonia,pleural_effusion,lung,cardiomediastinal_silhouette,left_low_lobe,opacity,consolidation,vascular_congestion,wire
+Topic 3,increase,opacification,redistribution,infiltrate,opacity,volume,region,hilar_contour,loss,bilateral_pleural_effusion
+Topic 4,chest,pleural_effusion,pneumothorax,semi,erect,film,focal_consolidation,lung,mild,hilar_contour
+Topic 5,pneumonia,area,appearance,device,tube,fluid,support,overload,atelectasis,cardiac_silhouette

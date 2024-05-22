@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,rib,fracture,series,recommend,chest,detection,film,dedicate,radiography,pain
+Topic 2,compression,thoracic,fracture,age,spine,body,indeterminate,process,mid,intrathoracic
+Topic 3,lung,heal,effusion,silhouette,hilar,edema,rib,fracture,cardiomegaly,surface
+Topic 4,heart,size,lung,mediastinum,hila,resolve,heal,end,surface,opacity
+Topic 5,volume,atelectasis,increase,fracture,lobe,lung,neck,acute_cardiopulmonary_process,rib,series
+Topic 6,abnormality,rib,fracture,post,status,persist,multiple,identify,overload,dissection
+Topic 7,displace,fracture,pneumothorax,pleural_effusion,rib,resolution,base,exam,trauma,cast
+Topic 8,acute,pneumonia,edema,space,assess,mark,clavicle,fracture,kyphosis,migration
+Topic 9,acute_cardiopulmonary_process,nondisplace_rib_fracture,detection,displace_rib_fracture,acuity,correlate,fracture,subtle,appearance,radiography
+Topic 10,atelectasis,tube,fracture,opacity,resoluation,aspiration,pneumothorax,rib,region,read
+Topic 11,pneumothorax,nondisplace,displace_rib_fracture,rib,hemothorax,fracture,hematoma,multiple,site,callus
+Topic 12,sternotomy,wire,chronicity,rotation,unsure,clockwise,definite,question,imaging,request
+Topic 13,placement,hyperexpande,possibility,congestion,cardiac,contour,pleural_effusion,pneumothorax,presence,lung
+Topic 14,present,vertebrae,congestion,pedicle,rod,screw,hydropneumothorax,scar,osteopenia,pneumonia
+Topic 15,diffuse,time,healing,consolidation,dislocation,joint,interpretation,associate,convey,shape
+Topic 16,pre,decrease,hernia,opacity,stomach,decompensation,curl,detect,wire,intrathoracic

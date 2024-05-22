@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,volume,lung,displace,aorta,tortuosity,rib_fracture,proximal,wedge,humerus,neck
+Topic 2,sternotomy,wire,surface,enlarge,fracture,pleural_effusion,lung,pacemaker,abnormality,pneumothorax
+Topic 3,consolidation,contour,heart,pleural_effusion,lumbar,bronchovascular,pneumothorax,result,chronic,posterior
+Topic 4,heart,size,consolidation,pleural_effusion,contour,lung,pneumothorax,step,reveal,widening
+Topic 5,bone,silhouette,post,status,surgery,wire,consolidation,fluid,pneumonia,size
+Topic 6,deformity,demineralization,hyperinflate,infection,midlung,provide,diffuse,compression,heart,surface
+Topic 7,increase,pathologic,left,lesion,project,thorax,irregularity,valve,replacement,tube
+Topic 8,opacity,account,pneumothorax,cardiomegaly,pleural_effusion,contour,hypoinflate,retrospect,rib_fracture,multiple
+Topic 9,clavicle,lung,pneumothorax,dextroconvex,vertebral,silhouette,spine,pleural_effusion,scoliosis,age
+Topic 10,erect,semi,chest,film,hilar,heal,displace,overload,mild,lung
+Topic 11,identify,rib_fracture,pleural_effusion,contour,consolidation,pneumothorax,resolve,pigtail,silhouette,multiple
+Topic 12,chest,supine,semi,apex,track,leave,emphysema,tube,displace,torso
+Topic 13,callus,distal,elevate,healing,disease,formation,angulation,appreciate,clavicle,bony
+Topic 14,aspect,today,past,rib,irregularity,combination,necessitate,opacification,pedicle,heal
+Topic 15,extent,decrease,pre,area,base,atelectasis,pneumonia,rib_fracture,pneumothorax,pleural_effusion
+Topic 16,pain,site,appreciate,collection,present,continue,surface,silhouette,space,lung
+Topic 17,consequent,space,asymmetry,spine,scoliosis,thoracic,body,edema,compression,pneumonia
+Topic 18,extubate,tube,cardiac,appearance,edema,pulmonary,size,silhouette,lung,rib_fracture
+Topic 19,injury,congestion,displace,silhouette,lung,pneumothorax,chest,pleural_effusion,apex,leave
+Topic 20,borderline,cardiac,atelectasis,acute,line,situ,heal,edema,relevant,base
+Topic 21,congestion,pneumonia,disease,support,device,pleural_effusion,apex,leave,track,torso
+Topic 22,film,chest,apex,track,leave,torso,support,overload,pigtail,resolve
+Topic 23,torso,leave,track,apex,support,overload,pigtail,resolve,pulmonary,collection

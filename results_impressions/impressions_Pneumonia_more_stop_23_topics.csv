@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,focal_consolidation,pneumonia,definite_focal_consolidation,atelectasis,small_left_pleural_effusion,mild_pulmonary_edema,trace,cardiomegaly,vascular_congestion,distension
+Topic 2,leave_low_lobe,ensure_resolution,treatment,pneumonia,recommend,followup,refer,provider,enter,radiology
+Topic 3,document_resolution,treatment,recommend_repeat,consolidation,repeat,leave_low_lobe,pneumonia,region,followup,recommend
+Topic 4,increase,progression,pneumothorax,consolidation,area,opacity,infection,patchy,mediastinum,pleural_effusion
+Topic 5,lung,convince,opacity,pneumonia,disease,wall,identify,scatter,lymphadenopathy,relay
+Topic 6,pulmonary_edema,worsen,exclude,bilateral_pleural_effusion,improvement,decrease,trace,read,wet,congestion
+Topic 7,pleural_effusion,size,cardiac_silhouette,pulmonary_edema,exam,air,basal,pneumonia,hyperinflate,post
+Topic 8,tube,small_bilateral_pleural_effusion,line,stomach,placement,end,endotracheal,vasculature,drainage,ill
+Topic 9,aspiration,atelectasis,opacity,pneumonia,hernia,possibility,scar,project,versus,consider
+Topic 10,chest,week,resolution,therapy,low_lobe_pneumonia,recommend_follow,assess,leave_low_lobe_pneumonia_recommendation,review,time
+Topic 11,leave_upper_lobe,infiltrate,recommend,resolution,correlation,symptom,followup,process,advise,assess
+Topic 12,left_low_lobe,opacification,pneumonia,development,segment,context,opacity,bronchiectasis,parenchymal,time
+Topic 13,fluid,effusion,overload,diffuse,lingula,exclude,background,left_pleural_effusion,moderate,pneumonia
+Topic 14,support,device,low_lung_volume,component,body,diagnosis,zone,heart_size,pneumonia,age
+Topic 15,acute_cardiopulmonary_process,pulmonary_vascular_congestion,pneumonia,cardiomegaly,lobar,relate,accompany,lobe,accentuate,definite_focal_consolidation
+Topic 16,bibasilar_atelectasis,moderate_cardiomegaly,mild_cardiomegaly,focal_consolidation,pneumonia,result,emphysema,hypoinflate,correspond,provide
+Topic 17,volume,infection,loss,region,surface,scoliosis,raise,opacity,bronchial,exclude
+Topic 18,infectious_process,basis,failure,abnormality,silhouette,atelectasis,retrocardiac,heart,rule,lung
+Topic 19,airspace,parenchymal_opacity,intrathoracic,abnormality,appearance,bibasilar,suggestion,opacity,infection,pneumonia
+Topic 20,low_lobe,proper_clinical_setting,lesion,recommend_followup,severity,interpretation,reassessment,resolution,exclude,extent
+Topic 21,mild,edema,acute,enlargement,engorgement,hypertension,cardiac_silhouette,density,calcify,pneumonia
+Topic 22,opacitie,etiology,infection,evaluate,prominence,leave_low_lobe_pneumonia_recommend_repeat,thoracic,immunosuppression,rml,borderline
+Topic 23,nurse,base,pneumoperitoneum,email,recurrent,mail,rest,progress,perforate,viscus

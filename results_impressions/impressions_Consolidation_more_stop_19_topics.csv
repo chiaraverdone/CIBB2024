@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,pneumonia,document_resolution,leave_low_lobe,treatment,repeat,consolidation,clinical_setting,region,underlie,lobe
+Topic 2,tube,line,pneumothorax,svc,stomach,level,consolidation,end,pigtail,junction
+Topic 3,mediastinum,bibasal,bilateral_pleural_effusion,progression,heart_size,consolidation,pulmonary_edema,tracheostomy,pneumothorax,tube
+Topic 4,lung,mild,consolidation,atelectasis,relevant,device,volume,pleural_effusion,support,contour
+Topic 5,aspiration,exam,pneumonia,consolidation,increase,base,pleural_effusion,appearance,associate,trace
+Topic 6,atelectasis,exclude,left_pleural_effusion,consolidation,congestion,bilateral_pleural_effusion,vascular,pleural_effusion,hernia,subjacent
+Topic 7,effusion,persistent,consolidation,cardiomegaly,leave_low_lobe,lobe,basal,pneumothorax,pulmonary_edema,acute
+Topic 8,recommend,resolution,treatment,followup,chest,completion,artery,week,opacity,hypertension
+Topic 9,left_low_lobe,increase,worsen,pneumonia,air,retrocardiac,consolidation,moderate,result,infiltrate
+Topic 10,combination,represent,review,layer,lung,wet,opacity,absence,consolidation,fibrosis
+Topic 11,decrease,size,increase,enlargement,persist,cardiac,volume,silhouette,loculare,edffusion
+Topic 12,loss,failure,heart,opacification,dashboard,volume,mass,abnormality,shift,course
+Topic 13,low_lobe_consolidation,edema,low_lobe,enlarge,accompany,component,xray,relevant,cardiomegaly,size
+Topic 14,disease,effusion,lung,background,consider,portion,emphysema,feeding,query,improvement
+Topic 15,involvement,bibasilar,support,extent,vascularity,worrisome,consolidation,base,term,correlate
+Topic 16,infection,area,confluent,consolidation,start,surgery,severity,distention,cough,duct
+Topic 17,improvement,provider,enter,refer,surface,region,department,radiology,resolve,consolidation
+Topic 18,lobe,advise,followup,resolution,vein,segment,rest,mid,process,stomach
+Topic 19,airspace,imaging,appropriate,multi,lesion,assess,versus,scoliosis,consideration,diuresis

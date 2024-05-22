@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,heart,mediastinum,size,pleural_effusion,bibasal,progression,lung,today,indication,pneumothorax
+Topic 2,left_apical_pneumothorax,left_pleural_effusion,decrease,atelectasis,size,pleural,pigtail,depression,pleural_effusion,scar
+Topic 3,pneumothorax,decrease,size,time,tension,pneumomediastinum,shift,hydro,comment,abnormality
+Topic 4,placement,post,status,pigtail,chest_tube,pneumothorax,removal,remain,resolution,disease
+Topic 5,hydropneumothorax,expansion,status,post,chest_tube,scoliosis,thoracolumbar,component,loculate,placement
+Topic 6,chest_tube,removal,left_apical_pneumothorax,trace,pneumothorax,team,inform,insertion,opacity,leave
+Topic 7,silhouette,cardiac,presence,basis,support,device,parenchyma,biopsy,pneumothorax,retrocardiac
+Topic 8,tube,thoracostomy,relevant,aeration,leave_apical_pneumothorax,leave,edema,pleural_effusion,atelectasis,pneumothorax
+Topic 9,bilateral_pleural_effusion,pneumothorace,atelectasis,pulmonary_edema,cardiomegaly,improvement,left_apical_pneumothorax,widening,align,exam
+Topic 10,volume,lung,loss,noon,reveal,pneumothorax,removal,mid,character,scatter
+Topic 11,increase,pulmonary_edema,size,pneumonia,tension,silhouette,left_apical_pneumothorax,borderline,exlucde,interpretation
+Topic 12,emphysema,wall,pre,neck,tissue,medial,contour,tube,opacification,presence
+Topic 13,leave_apical_pneumothorax,persistent,atelectasis,minimal,hardware,left_pleural_effusion,pleural_effusion,collection,hemithorax,addition
+Topic 14,air,exam,basal,apex,pneumothorax,valve,moderate,overnight,mass,thorax
+Topic 15,person,wire,pacemaker,presence,extent,lead,receive,contour,pulmonary_edema,borderline
+Topic 16,reduction,space,rightward,pneumothorax,collapse,displacement,decompression,shift,followup,tension
+Topic 17,consolidation,development,present,area,congestion,increase,effusion,cardiomegaly,echo,hyperinflate
+Topic 18,fracture,rib,tube,displace,clavicle,resoluation,aspiration,hemopneumothorax,line,opacity
+Topic 19,leave_apical_pneumothorax,trace,chest,persist,drain,increase,film,notify,conversation,plane
+Topic 20,prior,trap,midline,perform,pneumothorax,chest,pneumomediastinum,lung,visualization,physiology
+Topic 21,left,process,appearance,lobectomy,level,pneumothorax,regression,acute,fluid,air
+Topic 22,lobe,effusion,opacity,atelectasis,worrisome,term,elevation,hemidiaphragm,region,left_pleural_effusion
+Topic 23,mild,miniscule,shift,mediastinal,follow,resection,widening,grow,pneumatocele,cxr
+Topic 24,thoracocentesis,rest,radiology,enter,provider,density,refer,enlargement,department,absence

@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,lung,volume,pleural_effusion,silhouette,pneumothorax,consolidation,contour,atelectasis,basis,lobe
+Topic 2,chest,supine,film,semi,prominence,artifact,angle,decende,appearence,continue
+Topic 3,congestion,elevation,pneumonia,contour,tissue,mediastinum,level,effusion,enlarge,procedure
+Topic 4,portable_semi_erect,chest,erect,upright,infiltrate,leave,line,appearence,continue,decende
+Topic 5,edema,cephalization,improvement,pleural_effusion,decrease,atelectasis,vasculature,junction,crowding,hila
+Topic 6,tube,shift,attack,coil,dobbhoff,micu,mucus,push,body,area
+Topic 7,portable_upright_chest,film,suture,drain,goiter,raise,accentuate,tortuosity,semi_erect_chest,wall
+Topic 8,placement,wet,acquisition,laryngoscopy,definite,parenchyma,disorder,wire,shoulder,valve
+Topic 9,end,bronchovascular,dissection,endotracheal,stomach,pneumothorax,mediastinum,widening,fundus,gastric
+Topic 10,portable_semi_erect_chest_film,stamp,dictate,apparent,hemidiaphragm,shift,time,thorax,field,bibasilar

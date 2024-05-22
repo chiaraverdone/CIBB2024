@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,contour,pneumothorax,pleural_effusion,opacity,size,consolidation,heart,lung,measure,rib
+Topic 2,enlarge,heart,clip,lung,lobar,metastasis,chest,angle,surgery,size
+Topic 3,volume,lung,accentuate,wall,opacity,consider,factor,lateral,cardiomegaly,graft
+Topic 4,lobe,aeration,engorge,hemithorax,multiple,visualization,dextroscoliosis,atelectasis,vasculature,heart
+Topic 5,atelectasis,opacity,calcify,silhouette,replacement,shoulder,thyroid,bony,provide,return
+Topic 6,chest,pancoast,tumor,consolidation,contour,exclude,heart,mass,size,shadow
+Topic 7,nodule,assess,constant,decompression,device,stabilization,accord,conclusion,lobe,pneumonia
+Topic 8,wall,calcium,thicken,vascularity,deposit,distortion,zone,lung,parenchyma,level
+Topic 9,bronchovascular,define,detect,knob,minimal,placement,result,streaky,crowd,terminate
+Topic 10,nodule,lung,edema,size,tortuosity,basal,fibrosis,thoracic,today,cardiac
+Topic 11,mild,biopsy,flattening,granuloma,scarring,scatter,diaphragm,mass,base,pneumomediastinum
+Topic 12,semi,erect,film,chest,supine,bilateral,masse,persist,reaccumulation,acute
+Topic 13,density,midline,possibility,border,hilar,extubation,cavitation,lucency,trace,heart
+Topic 14,disease,congestion,hyperexpansion,procedure,radiography,resolution,persistent,reticular,lung,pneumonia
+Topic 15,lingula,stomach,diffuse,opacification,atelectasis,volume,opacity,lobe,pneumonia,persist
+Topic 16,spine,nodule,support,dense,presence,overinflation,body,volume,abnormality,lung
+Topic 17,appearance,increase,background,elevation,work,risk,overinflation,malignancy,pre,lesion
+Topic 18,decrease,vascular,vessel,engorgement,trachea,ill,remainder,displace,status,abnormality
+Topic 19,glass,pacemaker,document,perform,ground,mass,relevant,situ,appearance,edema
+Topic 20,supine,chest,bilateral,masse,persist,reaccumulation,acute,emphysema,hyperlucencie,development
+Topic 21,bilateral,persist,reaccumulation,masse,acute,emphysema,hyperlucencie,development,drain,swan
+Topic 22,bilateral,persist,reaccumulation,masse,acute,emphysema,hyperlucencie,development,drain,swan

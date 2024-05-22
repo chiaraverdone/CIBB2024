@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,chest,supine,semi,film,erect,remain,angle,svc,tension,opacity
+Topic 2,contour,lung,heart,left_apical_pneumothorax,component,pneumothorax,pleural_effusion,size,hydro,rib
+Topic 3,left,tube,volume,loss,effusion,atelectasis,lobectomy,lead,opacity,endotracheal
+Topic 4,appearance,tension,parenchyma,dimension,cardiac,silhouette,extent,space,fluid,pre
+Topic 5,tube,atelectasis,pneumothorax,lobe,pleural_effusion,jugular,appropriate,status,line,edema
+Topic 6,remainder,exam,atelectasis,inspiratory,removal,persistent,base,improvement,edema,pleural_effusion
+Topic 7,shift,silhouette,hila,diameter,hemidiaphragm,physician,refer,resection,shape,situation
+Topic 8,persistent,emphysema,pneumopericardium,chest,fracture,opacity,increase,pleural_effusion,pneumothorax,wall
+Topic 9,left_apical_pneumothorax,edema,pleural_effusion,interpretation,drain,consolidation,post,redistribution,status,silhouette
+Topic 10,wall,neck,tube,base,development,sulcus,reexpansion,lucency,air,left_apical_pneumothorax
+Topic 11,apical_pneumothorax,size,consolidation,silhouette,edema,hour,measure,rest,pleural_effusion,infiltrate
+Topic 12,rib,fracture,irregularity,pathologic,lesion,wire,thorax,valve,replacement,displace
+Topic 13,resolution,indistinctness,muscle,outline,pleurx,result,vessel,crowding,elevate,pressure
+Topic 14,material,trace,heart,placement,enlarge,mediastinum,opacification,bony,suture,abnormality
+Topic 15,contour,consolidation,pleural_effusion,artery,hemithorax,chain,relate,bypass,lung,tube
+Topic 16,elevation,hemothorax,time,dictate,borderline,hydropneumothorax,area,support,device,cardiac
+Topic 17,vasculature,yesterday,mass,overlie,size,hydropneumothorax,thorax,persist,loss,base
+Topic 18,basis,lung,site,insertion,space,volume,medial,enlargement,reflect,tension
+Topic 19,stomach,gas,pneumomediastinum,pneumothorace,air,pleural_effusion,subtle,content,midline,hilum
+Topic 20,convince,inclusion,site,presence,area,insertion,basis,tension,appearance,atelectasis
+Topic 21,opacification,pressure,elevate,persist,silhouette,atelectasis,left_apical_pneumothorax,pleural_effusion,subtle,content
+Topic 22,terminate,apical_pneumothorax,base,consolidation,atelectasis,pneumothorax,pleural_effusion,content,midline,hilum

@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,chest,supine,film,semi,artifact,angle,motion,continue,collapse,withdrawal
+Topic 2,lung,volume,silhouette,consolidation,pleural_effusion,atelectasis,pneumothorax,aorta,basis,engorge
+Topic 3,portable_semi_erect,chest,upright,angle,artifact,continue,collapse,diaphragm,course,withdrawal
+Topic 4,tube,lobe,volume,lung,shift,mucus,inspiration,crowd,micu,dobbhoff
+Topic 5,pneumonia,elevation,congestion,contour,possibility,mild,mediastinum,goiter,raise,apparent
+Topic 6,effusion,tissue,mid,appearance,congestion,mediastinum,density,chronicity,deformity,compression
+Topic 7,portable_upright_chest,acute,film,persist,procedure,base,hemidiaphragm,shift,abnormality,cardiomegaly
+Topic 8,edema,cephalization,improvement,pleural_effusion,atelectasis,cardiomegaly,pneumothorax,vasculature,contour,hila
+Topic 9,lung,size,contour,accentuate,heart,suture,drain,volume,mediastinum,engorge
+Topic 10,tortuosity,disorder,parenchyma,shoulder,dissection,pleural_effusion,widening,borderline,prominence,endotracheal
+Topic 11,opacity,process,silhouette,contour,post,status,enlarge,sternotomy,year,time
+Topic 12,area,support,moderate,relevant,convexity,gland,knob,region,review,skeletal
+Topic 13,acquisition,ganz,material,probe,sponge,swan,transesophageal,valve,wet,wire
+Topic 14,portable_semi_erect_chest_film,erect,angle,artifact,continue,pressure,blunt,obscure,versus,collapse
+Topic 15,dictate,stamp,time,hernia,lucency,relate,space,erect_chest_film,air,heart

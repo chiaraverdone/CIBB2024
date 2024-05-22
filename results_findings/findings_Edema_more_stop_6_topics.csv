@@ -1,0 +1,7 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,pleural_effusion,pneumothorax,pulmonary_vascular_congestion,focal_consolidation,edema,mild,cardiomegaly,bibasilar_atelectasis,cardiomediastinal_silhouette,interstitial_pulmonary_edema
+Topic 2,mild_pulmonary_edema,pneumothorax,heart,acute_osseous_abnormality,post,status,effusion,focal_consolidation,mediastinal_contour,sternotomy_wire
+Topic 3,opacity,chest,increase,cardiac_silhouette,pneumothorax,moderate_pulmonary_edema,large_pleural_effusion,pneumonia,time,pleural_effusion
+Topic 4,atelectasis,support_device,bilateral_pleural_effusion,area,basis,enlargement,cardiac_silhouette,portable_upright_chest,edema,vascular_redistribution
+Topic 5,tube,portable_semi_erect_chest,edema,terminate,endotracheal_tube,stomach,svc,worsen,opacity,end
+Topic 6,prominence,pulmonary_vasculature,pneumothorax,mild_pulmonary_edema,portable_semi_erect_chest_film,lung,consolidation,cephalization,focal_consolidation_pleural_effusion,lead

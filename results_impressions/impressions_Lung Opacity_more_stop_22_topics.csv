@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,pneumonia,opacity,left_low_lobe,leave_low_lobe,left_lung_base,lingula,aspiration,atelectasis,segment,lung
+Topic 2,cardiac_silhouette,opacification,support_device,volume_loss,pulmonary_venous_pressure,elevation,basis,enlargement,continue_enlargement,hemidiaphragm
+Topic 3,recommend,treatment,followup,resolution,ensure_resolution,document_resolution,week,repeat,pneumonia,opacity
+Topic 4,bilateral_parenchymal_opacity,pleural_effusion,extent,decrease,severity,size,lung_volume,support_device,pulmonary_edema,pneumothorax
+Topic 5,opacification,increase,small_pleural_effusion,angle,engorgement,atelectasis,region,pneumonia,favor,bilateral_pulmonary_opacification
+Topic 6,aspiration,patchy,infection,retrocardiac,opacity,lung_basis,bibasilar_airspace_opacity,atelectasis,potentially_atelectasis,small_bilateral_pleural_effusion
+Topic 7,consolidation,effusion,exam,increase,opacity,left_pleural_effusion,low_lobe,scarring,review,component
+Topic 8,improvement,pneumothorax,mediastinum,bibasal,opacity,pleural_effusion,fracture,inspiratory,low_lung_volume,volume
+Topic 9,airspace,multifocal_pneumonia,opacity,relevant,aeration,pulmonary_edema,contour,hemorrhage,improvement,correlation
+Topic 10,infection,exclude,edema,opacity_potentially_atelectasis,shadow,opacity,pulmonary_edema,versus,faint,worsen
+Topic 11,scar,atelectasis,acute_cardiopulmonary_process,persistent,picc,lung,marker,base,focus,moderate
+Topic 12,persist,vascular_congestion,air,level,pneumothorax,ng_tube,silhouette,wire,junction,svc
+Topic 13,cardiomegaly,small_bilateral_pleural_effusion,pulmonary_vascular_congestion,mild,prominence,failure,enlarge,pulmonary_edema,opacity,basilar
+Topic 14,lung,mid,zone,density,airway,increase,fibrosis,opacity,pattern,extend
+Topic 15,focal_consolidation,low_lung_opacity,bronchial_wall,definite,pneumonia,worrisome,bronchitis,lung_disease,mass,ill_define
+Topic 16,line,mild_pulmonary_edema,process,tube,pneumothorace,standard,area,moderate_cardiomegaly,support,opacity
+Topic 17,raise,appearance,endotracheal_tube,bibasilar,course,remainder,hemithorax,thoracic,lung,project
+Topic 18,chronic_interstitial_lung_disease,chest_ct,progression,abnormality,emphysema,worsen,bilateral_low_lobe,infectious_process,et_tube,pulmonary_edema
+Topic 19,low_lobe_opacity,mild,congestion,advise,scatter,pneumonia,hazy,setting,opacity,lung
+Topic 20,leave_basilar_opacity,tube,post,stomach,hernia,dobhoff,status,prior,disease,ard
+Topic 21,bilateral_pleural_effusion,infiltrate,trace,opacitie,moderate_pulmonary_edema,leave_pleural_effusion,basal,field,atelectasis,elongation
+Topic 22,interstitial_lung_disease,diffuse,ground,glass,acute,background,identify,radiology,provider,removal

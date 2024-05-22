@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,nodule,consolidation,pneumothorax,edema,contour,measure,rib,pleural_effusion,project,lung
+Topic 2,heart,pleural_effusion,density,identify,round,lung,contour,project,pneumonia,size
+Topic 3,lung,wall,volume,accentuate,opacity,lateral,cardiomegaly,correspond,vascularity,distortion
+Topic 4,chest,semi,erect,film,disease,congestion,hyperexpansion,procedure,radiography,resolution
+Topic 5,aeration,engorge,hemithorax,multiple,visualization,dextroscoliosis,lobe,vasculature,tube,decompression
+Topic 6,atelectasis,mild,calcify,edema,base,silhouette,shoulder,provide,return,scatter
+Topic 7,opacity,spine,stomach,pleural_effusion,lingula,lung,pneumothorax,silhouette,contour,atelectasis
+Topic 8,increase,size,calcium,zone,basal,fibrosis,deposit,wall,lung,cardiac
+Topic 9,lobar,metastasis,wire,surgery,sternotomy,clip,enlarge,consolidation,heart,pneumothorax
+Topic 10,lung,size,reticular,persistent,pleural_effusion,silhouette,trace,severity,pneumothorax,basis
+Topic 11,mass,lobe,biopsy,document,perform,air,pneumothorax,pneumomediastinum,fracture,remainder
+Topic 12,decrease,engorgement,ill,trachea,vascular,vessel,blunt,hilum,overlie,displace
+Topic 13,supine,pancoast,tumor,heart,contour,size,mass,consolidation,surface,angle
+Topic 14,appearance,malignancy,lesion,background,elevation,risk,work,aorta,tortuosity,thoracic
+Topic 15,fracture,displace,rib,lung,silhouette,opacity,pneumothorax,pleural_effusion,bilateral,masse
+Topic 16,glass,pacemaker,ground,situ,edema,pneumonia,opacity,bilateral,masse,adjacent
+Topic 17,bilateral,masse,adjacent,complication,line,suture,arch,improvement,junction,development

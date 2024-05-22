@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,cardiac_silhouette,size,focal_parenchymal_opacity,pleural_effusion,pneumonia,pulmonary_edema,lung_volume,pneumothorax,borderline,mediastinal
+Topic 2,consolidation,pleural_effusion,pneumothorax,airspace,mediastinal_contour,heart_size,increase,opacity,pulmonary_edema,pneumonia
+Topic 3,opacity,hilar_contour,retrocardiac,heart,pneumonia,increase,pneumothorax,air,lung,left_low_lobe
+Topic 4,cardiomediastinal_silhouette,lung,vascular_congestion,pneumothorax,pleural_effusion,hilum,pneumonia,wire,opacity,hyperinflate
+Topic 5,focal_consolidation,pneumothorax,pleural_effusion,hilar_contour,pulmonary_edema,vasculature,border,abnormality,mediastinum,atelectasis
+Topic 6,rib,opacity,patchy,size,cardiomediastinal_contour,heart,cage,asymmetry,fracture,abnormality
+Topic 7,tortuosity,thoracic,fluid,aorta,pneumonia,borderline,focal_parenchymal_opacity,overload,cardiac_silhouette,pulmonary_edema
+Topic 8,chest,supine,surface,pneumothorax,hilar_contour,focal_consolidation,pleural_effusion,trace,heart,mild
+Topic 9,opacification,increase,region,svc,mid,development,silhouette,cardiomediastinal_silhouette,pleural_effusion,information
+Topic 10,infiltrate,redistribution,volume,loss,bilateral_pleural_effusion,area,exclude,basis,aspect,hazy
+Topic 11,tube,line,endotracheal,appearance,junction,combination,progress,support,bilateral_pleural_effusion,project
+Topic 12,semi,erect,film,chest,zone,end,crowding,complication,arch,hypertension

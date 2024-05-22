@@ -1,0 +1,7 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,focal_consolidation,pneumothorax,bilateral_pleural_effusion,heart,hilar_contour,trace,pulmonary_edema,size,small_left_pleural_effusion,mildly_enlarge
+Topic 2,opacification,compressive_atelectasis,effusion,basis,increase,cardiac_silhouette,pleural_effusion,pulmonary_venous_pressure,support_device,vascular_congestion
+Topic 3,atelectasis,area,extent,fluid_overload,support_device,left_pleural_effusion,lung_basis,moderate_cardiomegaly,pre,device
+Topic 4,chest,consolidation,portable_semi_erect_chest,portable_semi_erect_chest_film,terminate,bilateral_pleural_effusion,pneumothorax,cardiomediastinal_silhouette,provide,edema
+Topic 5,tube,portable_upright_chest,aorta,redistribution,thoracic,small_left_pleural_effusion,zone,infiltrate,pneumothorax,wall
+Topic 6,cardiomegaly,cardiomediastinal_contour,bibasilar_atelectasis,pneumothorax,supine_chest,bilateral_pleural_effusion,adjacent_atelectasis,portable_semi,increase,pulmonary_vascular_congestion

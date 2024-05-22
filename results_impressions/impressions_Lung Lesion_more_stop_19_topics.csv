@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,nodule,acute,pneumonia,metastasis,lymphadenopathy,appearance,prominence,malignancy,edema,size
+Topic 2,disease,pneumonia,consolidation,lesion,mass,progression,edema,nodule,masse,opacity
+Topic 3,lung,surface,hila,mediastinum,heart,mistaken,nodule,shadow,mistake,absence
+Topic 4,pneumothorax,biopsy,silhouette,lung,volume,mass,pleural_effusion,post,size,parenchyma
+Topic 5,mass,emphysema,left_upper_lobe,atelectasis,upper_lobe,increase,contrast,hernia,predominant,field
+Topic 6,chest_ct,radiology,dashboard,enter,refer,nodular_opacity,department,provider,characterization,zone
+Topic 7,nodular_opacity,acute_cardiopulmonary_process,base,chest,marker,shadow,project,film,space,nipple
+Topic 8,oblique,diffuse,recommend,nodular_opacity,pronounce,edema,followup,define,mild,persistent
+Topic 9,process,exam,term,detection,stability,hyperinflate,intrathoracic,mass,relate,lung
+Topic 10,level,nodule,radiography,tube,possibility,head,demonstration,pneumothorax,abnormality,left_upper_lobe
+Topic 11,recommend,dedicate,malignancy,volume,loss,measure,mass,lung,assess,bronchovasculature
+Topic 12,thyroid,stent,worsen,dilate,size,heart,severity,scatter,opacity,failure
+Topic 13,left_upper_lobe,carcinomatosis,redemonstration,opacification,carcinoma,congestion,colon,pleural_effusion,lesion,thickness
+Topic 14,advancement,stylet,lead,heal,rib,stomach,fracture,wire,localization,deviate
+Topic 15,radiation,increase,decrease,terminate,device,pleural_effusion,intrathoracic,treatment,thoracocentesis,maturation
+Topic 16,nodule,lung,prior,project,identify,chest_ct,conspicuity,database,pcp,write
+Topic 17,elongation,repeat,pre,project,assess,etiology,projection,shallow,definite,investigation
+Topic 18,density,subsequent,upper_lobe,collapse,status,trachea,year,mark,period,multinodular
+Topic 19,effect,time,improvement,nodule,account,calcification,pleural_effusion,correlate,calcify,hemonc

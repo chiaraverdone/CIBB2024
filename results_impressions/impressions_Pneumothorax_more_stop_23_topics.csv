@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,left_apical_pneumothorax,removal,left_pleural_effusion,pigtail,chest_tube,decrease,atelectasis,pleural_effusion,pleural,bilateral_pleural_effusion
+Topic 2,post,status,placement,chest_tube,recommend,removal,rest,followup,loculate,hydropneumothorax
+Topic 3,decrease,hydropneumothorax,size,persistent,placement,pneumothorax,pleural_effusion,effusion,multiple,atelectasis
+Topic 4,heart,pleural_effusion,size,mediastinum,area,development,lung,valve,hiatus,pneumothorax
+Topic 5,leave_apical_pneumothorax,aeration,borderline,left_pleural_effusion,miniscule,atelectasis,leave,tube,relevant,pleural_effusion
+Topic 6,pulmonary_edema,lung,heart,size,pneumonia,scoliosis,thoracolumbar,today,lobectomy,noon
+Topic 7,presence,silhouette,cardiac,elongation,consolidation,size,parenchyma,pulmonary_edema,biopsy,pneumothorax
+Topic 8,bilateral_pleural_effusion,atelectasis,congestion,today,pre,region,silhouette,basis,persist,cardiomegaly
+Topic 9,lung,volume,expansion,loss,pneumothorax,abnormality,trap,contour,chest_tube,chest
+Topic 10,trace,chest_tube,left_pleural_effusion,lobe,removal,pneumothorax,leave_apical_pneumothorax,atelectasis,discover,hemidiaphragm
+Topic 11,increase,size,pneumothorax,dictation,time,relevant,physician,notify,number,order
+Topic 12,left,basal,process,pneumothorax,exam,regression,reveal,acute,increase,scatter
+Topic 13,bibasal,mediastinum,heart,improvement,opacity,scar,inform,depression,minimal,pneumomediastinum
+Topic 14,pneumothorace,pneumothorax,prior,time,comment,hydro,junction,midline,pneumomediastinum,bilateral_pleural_effusion
+Topic 15,shift,rightward,insertion,pneumothorax,review,collapse,mediastinum,mediastinal,follow,displacement
+Topic 16,tube,thoracostomy,pneumothorax,portion,accumulation,drainage,endotracheal,fluid,project,pigtail
+Topic 17,opacification,pneumomediastinum,edema,neck,wall,emphysema,line,medial,engorgement,end
+Topic 18,rib,fracture,tube,resoluation,opacity,aspiration,redemonstrate,pneumothorax,identify,complicate
+Topic 19,displace,film,hemopneumothorax,clavicle,chest,recognize,repeat,cxr,correlate,subsequent
+Topic 20,pacemaker,lead,person,receive,development,wire,replacement,extent,ventricle,distribution
+Topic 21,team,result,moderate,component,overnight,thoracocentesis,apex,increase,convey,expiration
+Topic 22,appearance,tension,reduction,fluid,moderate,support,device,pneumothorax,postoperative,stable
+Topic 23,persist,mass,resolution,assess,present,surgery,thoracic,constant,pneumonia,opacity

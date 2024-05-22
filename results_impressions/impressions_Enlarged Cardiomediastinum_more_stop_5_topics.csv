@@ -1,0 +1,6 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,mediastinum,process,widen,lung,size,heart,pneumothorax,effusion,standard,volume
+Topic 2,tube,lobe,effusion,atelectasis,consolidation,congestion,opacity,pneumothorax,mediastinum,improvement
+Topic 3,enlargement,cardiomediastinal_silhouette,pulmonary_edema,contour,effusion,prominence,enlarge,heart,device,support
+Topic 4,pleural_surface,normal_heart_lung_hila_mediastinum,pneumonia,malignancy,intrathoracic,infection,chest,decompensation,scoliosis,cta
+Topic 5,lung,pneumothorax,silhouette,appearance,effusion,air,contour,mild,congestion,nodule

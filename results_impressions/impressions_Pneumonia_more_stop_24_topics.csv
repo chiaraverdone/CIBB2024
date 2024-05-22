@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,focal_consolidation,pneumonia,definite_focal_consolidation,identify,mild_pulmonary_edema,pulmonary_edema,cardiomegaly,small_left_pleural_effusion,vascular_congestion,low_lung_volume
+Topic 2,leave_low_lobe,ensure_resolution,recommend,pneumonia,treatment,followup,refer,provider,enter,radiology
+Topic 3,document_resolution,treatment,consolidation,recommend_repeat,repeat,leave_low_lobe,pneumonia,region,context,completion
+Topic 4,opacity,lung,convince,pneumonia,proper_clinical_setting,confluent,mid,retrocardiac,scatter,correct
+Topic 5,left_low_lobe,tube,improvement,pneumonia,segment,progress,combination,line,opacity,terminate
+Topic 6,exclude,pulmonary_edema,fluid,overload,low_lobe,lingula,diffuse,background,moderate,increase
+Topic 7,increase,parenchymal_opacity,small_left_pleural_effusion,air,pneumonia,severity,extent,lymphadenopathy,basilar,density
+Topic 8,pneumothorax,patchy,mediastinum,contour,pleural_effusion,presence,consolidation,bibasal,infection,area
+Topic 9,pleural_effusion,support,device,area,heart_size,trace,mark,appearance,body,favor
+Topic 10,resolution,week,low_lobe_pneumonia,assess,chest,recommend_follow,therapy,leave_low_lobe_pneumonia_recommendation,leave_upper_lobe_pneumonia_recommend_repeat,followup
+Topic 11,disease,cardiac_silhouette,size,time,exam,review,rule,pulmonary_edema,post,lung
+Topic 12,chest,recommend_followup,lesion,nurse,resolution,symptom,treatment,ensure_resolution,email,week
+Topic 13,infection,opacity,correlation,worsen,exclude,status,region,recommend,development,platelike
+Topic 14,small_bilateral_pleural_effusion,mild,infectious_process,progression,volume,possibility,lobe,prominence,loss,pneumonia
+Topic 15,atelectasis,effusion,mild_cardiomegaly,basis,component,opacitie,basal,pneumonia,focal_consolidation,lung
+Topic 16,bilateral_pleural_effusion,edema,infiltrate,vascular_congestion,process,dense,consolidation,infection,wet,read
+Topic 17,bibasilar_atelectasis,abnormality,focal_consolidation,intrathoracic,pneumonia,pattern,tuberculosis,emphysema,leave_low_lobe_pneumonia_recommend_repeat,suggestion
+Topic 18,acute_cardiopulmonary_process,pulmonary_vascular_congestion,pneumonia,cardiomegaly,accompany,hyperinflate,definite_focal_consolidation,hyper,volumia,receptionist
+Topic 19,aspiration,acute,moderate_cardiomegaly,diagnosis,scar,pneumonia,versus,distribution,atelectasis,opacity
+Topic 20,opacification,silhouette,base,failure,heart,enlargement,svc,hilar,surface,pressure
+Topic 21,diuresis,persistent,mild_pulmonary_edema,worrisome,pulmonary_edema,advise,reflect,pcp,reassessment,recommend
+Topic 22,placement,leave_upper_lobe,stomach,endotracheal,hypertension,tube,vasculature,engorge,pass,drainage
+Topic 23,airspace,plaque,opacity,asbestos,exposure,lobar,relate,interpretation,correspond,treat
+Topic 24,hernia,relay,engorgement,thoracic,decompensation,scoliosis,zone,fibrosis,sarcoidosis,hiatal

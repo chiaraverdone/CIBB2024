@@ -1,0 +1,8 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,pneumothorax,pleural_effusion,focal_consolidation,cardiomediastinal_silhouette,atelectasis,lung,opacity,bibasilar_atelectasis,hilar_contour,consolidation
+Topic 2,atelectasis,area,pneumonia,lung_basis,fluid_overload,support_device,cardiac_silhouette,moderate_cardiomegaly,lung,borderline_size
+Topic 3,atelectasis,tube,portable_semi_erect_chest,line,appearance,project,stomach,course,bilateral_pleural_effusion,endotracheal_tube
+Topic 4,focal_consolidation_pleural_effusion,hilar_contour,pneumothorax,acute_osseous_abnormality,portable_semi_erect_chest_film,pulmonary_vasculature,lung_basis,atelectasis,subsegmental_atelectasis,mildly_enlarge
+Topic 5,compressive_atelectasis,basis,opacification,cardiac_silhouette,bilateral_pleural_effusion,enlargement,continue_enlargement,pulmonary_venous_pressure,support_device_remain,acute
+Topic 6,chest,bibasilar_atelectasis,portable_upright_chest,tube,persistent,improvement,pneumothorax,terminate,abdoman,hernia
+Topic 7,left_base,supine,vascular_congestion,chest_film,combination,portable_semi,opacity,obscure,today,edema

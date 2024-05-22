@@ -1,0 +1,6 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,pneumothorax,chest,lung,pleural_effusion,focal_consolidation,focal_consolidation_pleural_effusion,hilar_contour,mildly_enlarge,heart,moderately_enlarge
+Topic 2,atelectasis,area,increase,moderate_cardiomegaly,lung_basis,tube,support_device,size,project,mild_fluid_overload
+Topic 3,pneumonia,tortuosity,pleural_effusion,thoracic_aorta,pulmonary_edema,vascular_congestion,cardiac_silhouette,acute,borderline_size,moderate_cardiomegaly
+Topic 4,effusion,cardiomegaly,bony,chest_provide,opacity,interstitial_edema,pneumothorax,congestion,severe_cardiomegaly,exam
+Topic 5,opacification,cardiac_silhouette,enlargement,continue_enlargement,basis,pulmonary_venous_pressure,compressive_atelectasis,vessel,portable_semi_erect_chest,volume

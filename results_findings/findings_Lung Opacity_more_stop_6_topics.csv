@@ -1,0 +1,7 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,pneumothorax,pleural_effusion,opacity,hilar_contour,lung,cardiomediastinal_silhouette,focal_consolidation,focal_consolidation_pleural_effusion,chest,heart_size
+Topic 2,opacity,pneumothorax,retrocardiac_opacity,effusion,pleural_effusion,mild,cardiomegaly,edema,bony,mediastinal_contour
+Topic 3,parenchymal_opacity,cardiac_silhouette,size,extent,severity,appearance,pulmonary_edema,pre,large_pleural_effusion,support_device
+Topic 4,opacification,portable_semi_erect_chest,portable_upright_chest,pressure,support_device,atelectasis,left_base,hemidiaphragm,vessel,enlargement
+Topic 5,tube,opacification,infiltrate,stomach,persist,portable_semi,redistribution,basis,line,supine_chest
+Topic 6,chest,portable_semi_erect_chest_film,supine_chest_film,device,dictation,time,hilar,observation,valve,refer

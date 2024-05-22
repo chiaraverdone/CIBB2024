@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,mediastinum,widen,process,lung,volume,pulmonary_edema,size,cardiomegaly,effusion,heart
+Topic 2,pleural_surface,normal_heart_lung_hila_mediastinum,pneumonia,decompensation,rib,nodule,scoliosis,fracture,mistake,shadow
+Topic 3,effusion,atelectasis,pneumothorax,contour,appearance,cardiomediastinal_silhouette,mild,congestion,basis,lobe
+Topic 4,cardiomediastinal_silhouette,enlargement,consolidation,post,pulmonary_edema,status,effusion,failure,lobe,tube
+Topic 5,mediastinum,end,wire,size,lung,appearance,align,effusion,mid,heart
+Topic 6,opacity,improvement,pulmonary_edema,effusion,heart,size,mediastinum,base,lobe,borderline
+Topic 7,infection,malignancy,intrathoracic,pleural_surface,normal_heart_lung_hila_mediastinum,chest,surgery,enlargement,pertinent,radiology
+Topic 8,support,device,elevation,silhouette,lung,congestion,pneumonia,continue,heal,explanation
+Topic 9,junction,hypertension,node,cta,mediastinum,region,lymph,widening,moderate,thyroid
+Topic 10,tube,stomach,contour,endotracheal,hernia,advance,present,dobbhoff,congestion,tortuosity
+Topic 11,exam,age,nurse,exclude,recommend,loss,volume,update,convexity,nonurgent
+Topic 12,shift,rightward,dilatation,mediastinum,displacement,descend,elevation,pneumothorax,space,collapse
+Topic 13,placement,chest,possibility,detection,disease,calcification,worsen,metastasis,infiltrate,parenchyma

@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,appearance,mass,lung,rib,chest,cardiomegaly,fracture,result,pneumonia,left_upper_lobe
+Topic 2,nodule,acute,exam,cancer,benign,prior,dashboard,radiology,enter,process
+Topic 3,consolidation,silhouette,pleural_effusion,size,pneumothorax,masse,lung,heart,pneumonia,edema
+Topic 4,lung,surface,hila,mistaken,heart,nodule,mediastinum,shadow,absence,mistake
+Topic 5,nodule,disease,pneumonia,metastasis,progression,detection,atelectasis,left_upper_lobe,edema,process
+Topic 6,recommend,mass,tube,malignancy,contrast,correlate,atelectasis,trachea,measure,predominant
+Topic 7,opacity,upper_lobe,collapse,time,lesion,mass,review,response,pneumonia,order
+Topic 8,refer,chest_ct,nodular_opacity,department,provider,low_lobe,radiology,characterization,nonurgent,warrant
+Topic 9,acute_cardiopulmonary_process,base,marker,emphysema,left_upper_lobe,project,repeat,nodular_opacity,shadow,radiography
+Topic 10,oblique,project,chest_ct,nodular_opacity,lung,nonemergent,dashboard,today,persist,identify
+Topic 11,region,calcify,define,lung,correspond,thyroid,abnormality,goiter,bronchovasculature,volume
+Topic 12,pneumothorax,biopsy,mass,post,status,opacity,radiation,resolution,lung,fluid
+Topic 13,size,lymphadenopathy,adenopathy,density,decrease,nodule,acute_cardiopulmonary_process,account,subtle,calcification
+Topic 14,improvement,shallow,nodular_opacity,imaging,recommend,mid,projection,infection,spiculate,bronchiectasis
+Topic 15,opacification,increase,decrease,lesion,carcinoma,pleural_effusion,colon,wall,thickness,terminate
+Topic 16,time,localization,consolidation,lobar,failure,database,pcp,write,update,hemonc

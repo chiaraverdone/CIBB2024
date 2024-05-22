@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6,7,8,9
+Topic 1,mediastinum,bibasal,tube,line,pneumothorax,level,bilateral_pleural_effusion,consolidation,heart_size,progression
+Topic 2,tube,aspiration,consolidation,lung,pneumonia,increase,exam,base,endotracheal,stomach
+Topic 3,leave_low_lobe,pneumonia,repeat,treatment,document_resolution,consolidation,lobe,mass,region,pleural_effusion
+Topic 4,size,cardiomegaly,relevant,consolidation,pneumothorax,decrease,mild,support,device,atelectasis
+Topic 5,resolution,recommend,followup,pneumonia,week,loss,completion,chest,treatment,volume
+Topic 6,exclude,atelectasis,left_pleural_effusion,consolidation,bilateral_pleural_effusion,congestion,underlie,vascular,lung,volume
+Topic 7,increase,left_low_lobe,pneumonia,worsen,consolidation,combination,effusion,appearance,worrisome,infiltrate
+Topic 8,effusion,persistent,consolidation,atelectasis,lung,cardiac,disease,basal,versus,technique
+Topic 9,improvement,infection,left_low_lobe,consolidation,pulmonary_edema,airspace,remain,pleural_effusion,hypertension,artery
+Topic 10,opacity,review,consolidation,lung,base,wet,start,surface,severity,layer
+Topic 11,opacification,heart,increase,failure,region,consolidation,lingula,confluent,extent,question
